@@ -1,5 +1,3 @@
-index.mjs
-
 import { odd, even } from './var.mjs';
 import checkNumber from './func.mjs';
 
